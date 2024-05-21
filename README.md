@@ -47,7 +47,7 @@ O curso trouxe atividades e curiosidades para saber mais sobre **Inteligência A
 
 📧 **Contato:**
 
-Para dúvidas ou mais informações, entre em contato conosco em [seuemail@example.com](mailto:seuemail@example.com).
+Para dúvidas ou mais informações, entre em contato conosco em [meu e-mail](eduardaabritta@gmail.com).
 
 ---
 
