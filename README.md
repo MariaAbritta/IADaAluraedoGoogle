@@ -47,7 +47,7 @@ O curso trouxe atividades e curiosidades para saber mais sobre **Inteligência A
 
 📧 **Contato:**
 
-Para dúvidas ou mais informações, entre em contato conosco em [meu e-mail](eduardaabritta@gmail.com).
+Para dúvidas ou mais informações, entre em contato conosco pelo [e-mail da Maria Eduarda](eduardaabritta@gmail.com) ou [e-mail da Sabrina](sabrinaberno@hotmail.com).
 
 ---
 
@@ -89,3 +89,19 @@ Por fim, criamos uma interface de chat simples, onde o usuário pode digitar o n
 6. **Tratamento de Exceções:**
 
 Se a consulta não corresponder a nenhuma planta existente nos dados, o código usa um modelo chamado gemini-1.0-pro para gerar uma resposta com base na consulta. Isso garante uma experiência mais amigável para o usuário, mesmo que a planta não esteja na base de dados.
+
+---
+
+🔍 **Como rodar**
+
+Para executar o código e interagir com o assistente de cuidados com plantas, siga estas etapas:
+
+1. Abra o Google Colab ou outro ambiente de notebook Jupyter.
+
+2. Certifique-se de ter acesso à biblioteca google-generativeai e outras dependências necessárias instaladas.
+
+3. Adicione sua chave secreta, usada para autenticar API do Google Gemini, no ambiente do Google Colab
+   
+Lembre-se de manter sua chave secreta em segurança e não compartilhá-la publicamente, pois ela concede acesso aos recursos do Google Cloud associados ao seu projeto. Se você acredita que sua chave secreta foi comprometida, você pode regenerá-la.
+
+5. Execute o código do notebook. Isso carregará os dados das plantas, gerará embeddings, definirá a função de busca e criará a interface de chat.
